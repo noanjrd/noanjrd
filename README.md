@@ -14,13 +14,13 @@
 
 ## Public projects
 
-- 🌳 **[Binarytree playground](https://github.com/noanjrd/binarytree_playground)** - Exploring binary trees, traversal algorithms and data structure fundamentals  
-- 💬 **[IRC](https://github.com/noanjrd/42_IRC)** - Custom Internet Relay Chat server in C++  
-- 🎮 **[cub3D](https://github.com/noanjrd/42_cub3D)** - Raycasting engine inspired by Wolfenstein 3D  
-- 🤖 **[TicTacToeAI](https://github.com/noanjrd/TicTacToeAI)** - Tic-Tac-Toe with an AI using minimax algorithm  
-- 🐚 **[Minishell](https://github.com/noanjrd/42_Minishell)** - Unix shell in C with pipes, redirections and builtins  
-- ☁️ **[Airfile](https://github.com/noanjrd/Airfile)** - File sharing / transfer project  
-- 🎨 **[Fract-ol](https://github.com/noanjrd/42_fract-ol)** - Fractal rendering (Mandelbrot, Julia…) with graphical interface  
+- **[Binarytree playground](https://github.com/noanjrd/binarytree_playground)** - Exploring binary trees, traversal algorithms and data structure fundamentals  
+-  **[IRC](https://github.com/noanjrd/42_IRC)** - Custom Internet Relay Chat server in C++  
+-  **[cub3D](https://github.com/noanjrd/42_cub3D)** - Raycasting engine inspired by Wolfenstein 3D  
+-  **[TicTacToeAI](https://github.com/noanjrd/TicTacToeAI)** - Tic-Tac-Toe with an AI using minimax algorithm  
+-  **[Minishell](https://github.com/noanjrd/42_Minishell)** - Unix shell in C with pipes, redirections and builtins  
+-  **[Airfile](https://github.com/noanjrd/Airfile)** - File sharing / transfer project  
+-  **[Fract-ol](https://github.com/noanjrd/42_fract-ol)** - Fractal rendering (Mandelbrot, Julia…) with graphical interface  
 
 ## GitHub Activity
 
