@@ -33,9 +33,9 @@
 
 ## What I'm Doing
 
-- **Learning by building** - diving deep into every 42 project to master new concepts and strengthen problem-solving skills  
-- **Going from C to the web** - exploring the contrast between low-level systems programming and modern full-stack development  
-- **Experimenting and iterating** - building side projects to apply what I learn, explore new ideas, and continuously improve my skills  
+- **Learning by building** - mastering new concepts through 42 projects and personal projects, while strengthening problem-solving skills
+- **Going from C to the web** - exploring the contrast between low-level systems programming and modern full-stack development
+- **Optimizing and refining code** - constantly improving performance, readability, and efficiency in my projects 
 - **Collaborating and sharing** - learning from peers, contributing to projects, and connecting with the developer community  
 
 ## Connect
