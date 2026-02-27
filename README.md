@@ -20,7 +20,7 @@
 -  **[TicTacToeAI](https://github.com/noanjrd/TicTacToeAI)** - Tic-Tac-Toe with an AI using minimax algorithm  
 -  **[Minishell](https://github.com/noanjrd/42_Minishell)** - Unix shell in C with pipes, redirections and builtins  
 -  **[Airfile](https://github.com/noanjrd/Airfile)** - File sharing / transfer project  
--  **[Fract-ol](https://github.com/noanjrd/42_fract-ol)** - Fractal rendering (Mandelbrot, Julia…) with graphical interface  
+-  **[Fract-ol](https://github.com/noanjrd/42_fract-ol)** - Fractal rendering with graphical interface  
 
 ## GitHub Activity
 
@@ -28,11 +28,12 @@
 
 ## What I'm Doing
 
-- **Learning by building** — every 42 project is a deep dive into a new concept
-- **Going from C to the web** — enjoying the contrast between low-level systems and modern full-stack
-- **Exploring AI tools** — integrating them into my dev workflow
+- **Learning by building** - diving deep into every 42 project to master new concepts and strengthen problem-solving skills  
+- **Going from C to the web** - exploring the contrast between low-level systems programming and modern full-stack development  
+- **Experimenting and iterating** - building side projects to apply what I learn, explore new ideas, and continuously improve my skills  
+- **Collaborating and sharing** - learning from peers, contributing to projects, and connecting with the developer community  
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Noan_Jard-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/noanjrd)
+[![LinkedIn](https://img.shields.io/badge/-Noan_Jard-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/noanjard)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/noanjrd)
