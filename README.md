@@ -27,6 +27,8 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/noanjrd)
 
+> My GitHub activity is basically a green flag.
+
 ## What I'm Doing
 
 - **Learning by building** - diving deep into every 42 project to master new concepts and strengthen problem-solving skills  
