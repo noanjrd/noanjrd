@@ -1,6 +1,6 @@
 # Hi, I'm Noan 👋
 
-📍 **France (Willing to relocate)**  |  🎓 **Student @ 42 School** | 💻 **Full Stack Developer**
+📍 **France (willing to relocate)**  |  🎓 **Student @ 42 School** | 💻 **Full Stack Developer**
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
