@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
-> I’m a student who builds with curiosity, experiments with passion, and hopes my work might help someone, somewhere, someday. I build because creating something from nothing never gets old.
+> I’m a student who builds with curiosity, experiments with passion, and hopes my work might help someone, somewhere, someday. I build because turning ideas into reality never gets old.
 
 ## Public projects
 
