@@ -1,18 +1,26 @@
 # Hi, I'm Noan 👋
 
-📍 **France** | 🎓 **Student @ 42 School** | 💻 **Full Stack Developer**
+📍 **France (Open to relocation)**  |  🎓 **Student @ 42 School** | 💻 **Full Stack Developer**
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
-> Just a student who loves building things that could be useful to someone, someday, somewhere.
+> I’m a student who builds with curiosity, experiments with passion, and hopes my work might help someone, somewhere, someday. I build because creating something from nothing never gets old.
 
-## Projects
+## Public projects
 
-- 🐚 **[minishell](https://github.com/noanjrd/minishell)** - A Unix shell in C — pipes, redirections, builtins, the works
+- 🌳 **[Binarytree playground](https://github.com/noanjrd/binarytree_playground)** - Exploring binary trees, traversal algorithms and data structure fundamentals  
+- 💬 **[IRC](https://github.com/noanjrd/42_IRC)** - Custom Internet Relay Chat server in C++  
+- 🎮 **[cub3D](https://github.com/noanjrd/42_cub3D)** - Raycasting engine inspired by Wolfenstein 3D  
+- 🤖 **[TicTacToeAI](https://github.com/noanjrd/TicTacToeAI)** - Tic-Tac-Toe with an AI using minimax algorithm  
+- 🐚 **[Minishell](https://github.com/noanjrd/42_Minishell)** - Unix shell in C with pipes, redirections and builtins  
+- ☁️ **[Airfile](https://github.com/noanjrd/Airfile)** - File sharing / transfer project  
+- 🎨 **[Fract-ol](https://github.com/noanjrd/42_fract-ol)** - Fractal rendering (Mandelbrot, Julia…) with graphical interface  
 
 ## GitHub Activity
 
@@ -28,9 +36,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Noan_Jard-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/noanjrd)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/noanjrd)
-
----
-
-### Philosophy
-
-> "Understand before you copy." — 42 taught me to read errors, not just fix them.
