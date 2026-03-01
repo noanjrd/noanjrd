@@ -30,7 +30,7 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/noanjrd)
 
-> My GitHub activity is basically a green flag
+> My GitHub activity is basically a green flag.
 
 ## What I'm Doing
 
