@@ -14,7 +14,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/noanjrd)
 
-> I’m a student who builds with curiosity, experiments with passion, and hopes my work might help someone, somewhere, someday. I build because turning ideas into reality never gets old.
+> I build with curiosity and experiment with passion, always hoping what I create might help someone someday. I’m currently finishing a diploma in AI & Algorithms and Web & Mobile Development, and I enjoy turning complex problems into clean, efficient code.
 
 ## Public projects
 
