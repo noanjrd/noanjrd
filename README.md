@@ -18,7 +18,7 @@
 
 ## Public projects
 
--  **[Binarytree playground](https://github.com/noanjrd/binarytree_playground)** - Exploring binary trees, traversal algorithms and data structure fundamentals  
+-  **[Binarytree Playground](https://github.com/noanjrd/binarytree_playground)** - Exploring binary trees, traversal algorithms and data structure fundamentals  
 -  **[42_IRC](https://github.com/noanjrd/42_IRC)** - Custom Internet Relay Chat server in C++  
 -  **[42_cub3D](https://github.com/noanjrd/42_cub3D)** - Raycasting engine inspired by Wolfenstein 3D  
 -  **[TicTacToeAI](https://github.com/noanjrd/TicTacToeAI)** - Tic-Tac-Toe with an AI using minimax algorithm  
