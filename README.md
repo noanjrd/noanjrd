@@ -23,7 +23,6 @@
 -  **[42_cub3D](https://github.com/noanjrd/42_cub3D)** - Raycasting engine inspired by Wolfenstein 3D  
 -  **[TicTacToeAI](https://github.com/noanjrd/TicTacToeAI)** - Tic-Tac-Toe with an AI using minimax algorithm  
 -  **[42_Minishell](https://github.com/noanjrd/42_Minishell)** - Unix shell in C with pipes, redirections and builtins  
--  **[Airfile](https://github.com/noanjrd/Airfile)** - File sharing / transfer project  
 -  **[42_Fract-ol](https://github.com/noanjrd/42_fract-ol)** - Fractal rendering with graphical interface  
 
 ## GitHub Activity
