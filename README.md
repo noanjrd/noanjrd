@@ -24,6 +24,10 @@
 -  **[42_Minishell](https://github.com/noanjrd/42_Minishell)** - Unix shell in C with pipes, redirections and builtins  
 -  **[42_Fract-ol](https://github.com/noanjrd/42_fract-ol)** - Fractal rendering with graphical interface  
 
+## Private Projects
+ 
+-  **[What's Your Meme](https://whatsyourmeme.fun)** — Real-time multiplayer meme game. Players compete to match memes to situations, scored live. Built with React, Node.js, Socket.io, JWT, PostgreSQL & Docker. Deployed on a VPS with Nginx and SSL.
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/noanjrd)
