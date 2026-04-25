@@ -26,7 +26,7 @@
 
 ## Private Projects
  
-* **[What's Your Meme](https://whatsyourmeme.fun)** — Real-time multiplayer meme game. Players compete to match memes to situations, scored live. Built with React, Node.js, Socket.io, JWT, PostgreSQL & Docker. Deployed on a VPS with Nginx and SSL, behind Cloudflare (DNS, CDN & DDoS protection).
+* **[What's Your Meme](https://whatsyourmeme.fun)** - Real-time multiplayer meme game. Players compete to match memes to situations, scored live. Built with React, Node.js, Socket.io, JWT, PostgreSQL & Docker. Deployed on a VPS with Nginx and SSL, behind Cloudflare (DNS, CDN & DDoS protection).
 
 ## GitHub Activity
 
