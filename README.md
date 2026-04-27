@@ -1,6 +1,6 @@
 # Hi, I'm Noan 👋
 
-📍 **France (open to relocation)**  |  🎓 **Student @ 42 School** | 💻 **Software Developer**
+📍 **France (open to relocation)**  |  🎓 **Student @ 42 School** | 💻 **Software Engineer**
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -13,7 +13,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/noanjrd)
 
-> I build with curiosity and experiment with passion, always hoping what I create might help someone. I’m currently pursuing a diploma in AI & Algorithms and Web & Mobile Development.
+> I build with curiosity and experiment with passion. I’m currently pursuing a diploma in AI & Algorithms and Web & Mobile Development.
 
 ## Public projects
 
