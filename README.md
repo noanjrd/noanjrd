@@ -17,6 +17,7 @@
 
 ## Public projects
 
+-  **[42_ft_linear_regression](https://github.com/noanjrd/42_ft_linear_regression)** - Machine learning from scratch using gradient descent to predict prices
 -  **[42_IRC](https://github.com/noanjrd/42_IRC)** - Custom Internet Relay Chat server in C++
 -  **[Binarytree Playground](https://github.com/noanjrd/binarytree_playground)** - Exploring binary trees, traversal algorithms and data structure fundamentals  
 -  **[42_cub3D](https://github.com/noanjrd/42_cub3D)** - Raycasting engine inspired by Wolfenstein 3D  
