@@ -17,7 +17,7 @@
 
 ## Public projects
 
--  **[MovieMatch](https://github.com/noanjrd/MovieMatch)** - Custom recommendation engine utilizing mean-centered user collaborative filtering and cosine similarity matrices.
+-  **[MovieMatch](https://github.com/noanjrd/MovieMatch)** - Custom recommendation engine utilizing collaborative filtering and cosine similarity matrices.
 -  **[42_ft_linear_regression](https://github.com/noanjrd/42_ft_linear_regression)** - Predictive model for car prices based on mileage using linear regression.
 -  **[42_IRC](https://github.com/noanjrd/42_IRC)** - Custom Internet Relay Chat server in C++
 -  **[Binarytree Playground](https://github.com/noanjrd/binarytree_playground)** - Exploring binary trees, traversal algorithms and data structure fundamentals  
