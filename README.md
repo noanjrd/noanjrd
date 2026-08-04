@@ -1,6 +1,6 @@
 # Hi, I'm Noan 👋
 
-📍 **France (open to relocation)**  |  🎓 **Student @ 42 School** | 💻 **Data Scientist & ML Engineer | Software Engineer**
+📍 **France (open to relocation)**  |  🎓 **Student @ 42 School** | 💻 **Software Engineer & ML / Data Scientist**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -17,23 +17,19 @@
 
 ## Public projects
 
-### AI / Data Science
 -  **[42_dslr](https://github.com/noanjrd/42_dslr)** - Logistic regression classifier for Hogwarts house sorting.
 -  **[MovieMatch](https://github.com/noanjrd/MovieMatch)** - Custom recommendation engine utilizing collaborative filtering and Pearson correlation.
 -  **[42_ft_linear_regression](https://github.com/noanjrd/42_ft_linear_regression)** - Predictive model for car prices based on mileage using linear regression.
--  **[TicTacToeAI](https://github.com/noanjrd/TicTacToeAI)** - Tic-Tac-Toe with an AI using minimax algorithm
-
-### Engineering
 -  **[42_IRC](https://github.com/noanjrd/42_IRC)** - Custom Internet Relay Chat server in C++
--  **[Binarytree Playground](https://github.com/noanjrd/binarytree_playground)** - Exploring binary trees, traversal algorithms and data structure fundamentals
--  **[42_cub3D](https://github.com/noanjrd/42_cub3D)** - Raycasting engine inspired by Wolfenstein 3D
--  **[42_Minishell](https://github.com/noanjrd/42_Minishell)** - Unix shell in C with pipes, redirections and builtins
+-  **[Binarytree Playground](https://github.com/noanjrd/binarytree_playground)** - Exploring binary trees, traversal algorithms and data structure fundamentals  
+-  **[42_cub3D](https://github.com/noanjrd/42_cub3D)** - Raycasting engine inspired by Wolfenstein 3D  
+-  **[TicTacToeAI](https://github.com/noanjrd/TicTacToeAI)** - Tic-Tac-Toe with an AI using minimax algorithm  
+-  **[42_Minishell](https://github.com/noanjrd/42_Minishell)** - Unix shell in C with pipes, redirections and builtins  
 -  **[42_Fract-ol](https://github.com/noanjrd/42_fract-ol)** - Fractal rendering with graphical interface
 
 ## Private Projects
  
 * **[What's Your Meme](https://whatsyourmeme.fun)** - Real-time multiplayer meme game. Players compete to match memes to situations, scored live. Built with React, Node.js, Socket.io, JWT, PostgreSQL & Docker. Deployed on a VPS with Nginx and SSL, behind Cloudflare (DNS, CDN & DDoS protection).
-
 
 ## GitHub Activity
 
@@ -46,7 +42,7 @@
 - **Learning by building** - mastering new concepts through 42 projects and personal projects, while strengthening problem-solving skills
 - **Going from C to the web** - exploring the contrast between low-level systems programming and modern full-stack development
 - **Optimizing and refining code** - constantly improving performance, readability, and efficiency in my projects 
-- **Collaborating and sharing** - learning from peers, contributing to projects, and connecting with the developer community  
+- **Collaborating and sharing** - learning from peers, contributing to projects, and connecting with the developer community
 
 ## Connect
 
