@@ -1,6 +1,6 @@
 # Hi, I'm Noan 👋
 
-📍 **France (open to relocation)**  |  🎓 **Student @ 42 School** | 💻 **Data Scientist & ML engineer**
+📍 **France (open to relocation)**  |  🎓 **Student @ 42 School** | 💻 **Data Scientist & ML Engineer | Software Engineer**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -17,15 +17,18 @@
 
 ## Public projects
 
+### AI / Data Science
 -  **[42_dslr](https://github.com/noanjrd/42_dslr)** - Logistic regression classifier for Hogwarts house sorting.
 -  **[MovieMatch](https://github.com/noanjrd/MovieMatch)** - Custom recommendation engine utilizing collaborative filtering and Pearson correlation.
 -  **[42_ft_linear_regression](https://github.com/noanjrd/42_ft_linear_regression)** - Predictive model for car prices based on mileage using linear regression.
+-  **[TicTacToeAI](https://github.com/noanjrd/TicTacToeAI)** - Tic-Tac-Toe with an AI using minimax algorithm
+
+### Engineering
 -  **[42_IRC](https://github.com/noanjrd/42_IRC)** - Custom Internet Relay Chat server in C++
--  **[Binarytree Playground](https://github.com/noanjrd/binarytree_playground)** - Exploring binary trees, traversal algorithms and data structure fundamentals  
--  **[42_cub3D](https://github.com/noanjrd/42_cub3D)** - Raycasting engine inspired by Wolfenstein 3D  
--  **[TicTacToeAI](https://github.com/noanjrd/TicTacToeAI)** - Tic-Tac-Toe with an AI using minimax algorithm  
--  **[42_Minishell](https://github.com/noanjrd/42_Minishell)** - Unix shell in C with pipes, redirections and builtins  
--  **[42_Fract-ol](https://github.com/noanjrd/42_fract-ol)** - Fractal rendering with graphical interface  
+-  **[Binarytree Playground](https://github.com/noanjrd/binarytree_playground)** - Exploring binary trees, traversal algorithms and data structure fundamentals
+-  **[42_cub3D](https://github.com/noanjrd/42_cub3D)** - Raycasting engine inspired by Wolfenstein 3D
+-  **[42_Minishell](https://github.com/noanjrd/42_Minishell)** - Unix shell in C with pipes, redirections and builtins
+-  **[42_Fract-ol](https://github.com/noanjrd/42_fract-ol)** - Fractal rendering with graphical interface
 
 ## Private Projects
  
