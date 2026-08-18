@@ -17,6 +17,7 @@
 
 ## Public projects
 
+-  **[42_multilayer-perceptron](https://github.com/noanjrd/42_multilayer-perceptron)** - Neural network built from scratch for breast cancer detection.
 -  **[42_dslr](https://github.com/noanjrd/42_dslr)** - Logistic regression classifier for Hogwarts house sorting.
 -  **[MovieMatch](https://github.com/noanjrd/MovieMatch)** - Custom recommendation engine utilizing collaborative filtering and Pearson correlation.
 -  **[42_ft_linear_regression](https://github.com/noanjrd/42_ft_linear_regression)** - Predictive model for car prices based on mileage using linear regression.
