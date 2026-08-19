@@ -13,7 +13,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/noanjrd)
 
-> I build with curiosity and experiment with passion. I’m currently pursuing a diploma in Data & Database Architecture and Web & Mobile Development.
+> I build with curiosity and experiment with passion. I’m currently pursuing a Master’s in Data & Database Architecture and a Bachelor’s in Web & Mobile Development.
 
 ## Public projects
 
