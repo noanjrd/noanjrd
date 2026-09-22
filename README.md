@@ -20,11 +20,11 @@
 
 ## Public projects
 
--  **[42_multilayer-perceptron](https://github.com/noanjrd/42_multilayer-perceptron)** - Neural network built from scratch for breast cancer detection.
--  **[42_Call_Me_Maybe](https://github.com/noanjrd/42_Call_Me_Maybe)** - From-scratch function calling for local LLMs using constrained, token-by-token decoding.
--  **[42_dslr](https://github.com/noanjrd/42_dslr)** - Logistic regression classifier for Hogwarts house sorting.
--  **[MovieMatch](https://github.com/noanjrd/MovieMatch)** - Custom recommendation engine utilizing collaborative filtering and Pearson correlation.
--  **[42_ft_linear_regression](https://github.com/noanjrd/42_ft_linear_regression)** - Predictive model for car prices based on mileage using linear regression.
+-  **[42_multilayer-perceptron](https://github.com/noanjrd/42_multilayer-perceptron)** - Neural network built from scratch for breast cancer detection
+- **[42_Call_Me_Maybe](https://github.com/noanjrd/42_Call_Me_Maybe)** - From-scratch function calling with Qwen3-0.6B, using constrained, token-by-token decoding
+-  **[42_dslr](https://github.com/noanjrd/42_dslr)** - Logistic regression classifier for Hogwarts house sorting
+-  **[MovieMatch](https://github.com/noanjrd/MovieMatch)** - Custom recommendation engine utilizing collaborative filtering and Pearson correlation
+-  **[42_ft_linear_regression](https://github.com/noanjrd/42_ft_linear_regression)** - Predictive model for car prices based on mileage using linear regression
 -  **[42_IRC](https://github.com/noanjrd/42_IRC)** - Custom Internet Relay Chat server in C++
 -  **[Binarytree Playground](https://github.com/noanjrd/binarytree_playground)** - Exploring binary trees, traversal algorithms and data structure fundamentals  
 -  **[42_cub3D](https://github.com/noanjrd/42_cub3D)** - Raycasting engine inspired by Wolfenstein 3D  
