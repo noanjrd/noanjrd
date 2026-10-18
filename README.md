@@ -42,6 +42,7 @@
 ## What I'm Doing
 
 - **Learning by building** - mastering new concepts through 42 projects and personal projects, while strengthening problem-solving skills
+- **Bridging data science and software engineering** - combining machine learning, data analysis, and software development to build practical, end-to-end solutions
 - **Going from C to the web** - exploring the contrast between low-level systems programming and modern full-stack development
 - **Optimizing and refining code** - constantly improving performance, readability, and efficiency in my projects 
 - **Collaborating and sharing** - learning from peers, contributing to projects, and connecting with the developer community
