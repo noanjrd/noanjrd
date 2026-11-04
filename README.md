@@ -1,6 +1,6 @@
 # Hi, I'm Noan 👋
 
-📍 **Paris (open to relocation)**  |  🎓 **Student @ 42 School** | 💻 **AI Engineer & ML / Data Scientist**
+📍 **Paris (open to relocation)**  |  🎓 **Student @ 42 School** | 💻 **AI & Software Engineer Engineer**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
